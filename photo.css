@@ -1,0 +1,36 @@
+.photo-container {
+	float: left;
+	padding: 5px;
+}
+
+#modalPhoto .modal-body {
+	text-align: center;
+}
+
+#modalPhoto .modal-body .photo p {
+	margin-top: 10px;
+}
+
+#modalPhoto .modal-title {
+	color: #999;
+}
+
+.title {
+	text-align: left;
+}
+
+body {
+	width: 700px;
+	margin: 0 auto;
+}
+
+#mais-photos {
+	margin-top: 20px;
+}
+
+.comment {
+	padding: 5px;
+	text-align: left;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+}
